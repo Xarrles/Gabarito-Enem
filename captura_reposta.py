@@ -31,6 +31,7 @@ gabarito_dict = {int(questao): resposta for questao, resposta in questoes_e_gaba
 while True:
     questao = input("Para sair pressione \"S\"\n\n\tQuestão: ").lower()
 
+    os.system("cls")
     if questao == 's':
         break
 
@@ -45,4 +46,3 @@ while True:
     else:
         print(f"Resposta: {resultado}")
 
-    os.system("cls")
