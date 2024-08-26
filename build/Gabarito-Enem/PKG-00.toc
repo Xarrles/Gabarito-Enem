@@ -113,12 +113,12 @@
    'C:\\Users\\igorx\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libffi-8.dll',
    'BINARY'),
   ('MSVCP140.dll', 'C:\\Windows\\system32\\MSVCP140.dll', 'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\igorx\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140_1.dll',
+   'BINARY'),
   ('pymupdf\\mupdfcpp64.dll',
    'C:\\Users\\igorx\\OneDrive\\Área de '
    'Trabalho\\Estudo\\venv\\Lib\\site-packages\\pymupdf\\mupdfcpp64.dll',
-   'BINARY'),
-  ('VCRUNTIME140_1.dll',
-   'C:\\Users\\igorx\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140_1.dll',
    'BINARY'),
   ('base_library.zip',
    'C:\\Users\\igorx\\OneDrive\\Área de '

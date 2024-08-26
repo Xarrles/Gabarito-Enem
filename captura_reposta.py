@@ -44,3 +44,5 @@ while True:
         print("Resposta não encontrada")
     else:
         print(f"Resposta: {resultado}")
+
+    os.system("cls")
